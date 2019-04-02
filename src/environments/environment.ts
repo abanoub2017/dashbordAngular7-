@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  apiBasUrl: 'http://94.57.252.34:7777/ptasheelapis/resources',
+  token:'Basic UGxhdGludW1UYXNoZWVsOiFAIyRUQHNoZWVsMTIz'
 };
 
 /*

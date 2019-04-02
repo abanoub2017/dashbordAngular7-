@@ -1,0 +1,18 @@
+.home-component{
+  width: 101px;
+  height: 100px;
+  border-radius: 47px;
+  background-color: #000;
+position: relative;
+};
+.home-component::after{
+   content: "";
+   position: absolute;
+   left: 0px;
+   top: 0;
+   height: 100px;
+   width: 100px;
+   border: 1px solid #f00;
+   border-radius: 50%;
+
+}

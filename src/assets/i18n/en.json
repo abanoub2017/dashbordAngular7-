@@ -1,0 +1,13 @@
+{
+  "demo": {
+      "title": "Translation demo",
+      "text": "This eng"
+  },
+  "button":{
+    "language":"en"
+  },
+  "amountPer":{
+    "title":"  amount per emirates chart"
+  }
+
+}

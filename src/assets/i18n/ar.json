@@ -1,0 +1,12 @@
+{
+  "demo": {
+      "title": "عربي",
+      "text": "عربي برا"
+  },
+  "button":{
+    "language":"ar"
+  },
+  "amountPer":{
+    "title":"  رسم بياني المصاريف"
+  }
+}
